@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('angularGruntSeed')
+angular.module('myapp')
 
 .controller('HomeController', ['$scope',
     function($scope, gridService) {

@@ -1,7 +1,7 @@
 'use strict';
 
 // Declare core application module which pulls all the components together
-angular.module('angularGruntSeed', [
+angular.module('myapp', [
     'ngAnimate',
     'ngRoute',
     'ngSanitize',
