@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('angularGruntSeed')
+angular.module('myapp')
 
 .config(['$routeProvider', function ($routeProvider) {
     $routeProvider.when('/', {
